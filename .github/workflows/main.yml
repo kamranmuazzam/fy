@@ -1,29 +1,11 @@
-name: Logseq Publish and Deploy
+name: Simple Usage
 
-on:
-  push:
-    branches:
-      - main # or your main branch name
+on: push
 
 jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
     steps:
-      - name: Checkout Repository 🔄
-        uses: actions/checkout@v2
-
-      - name: Logseq Publish 🚩
-        uses: pengx17/logseq-publish@v0.1.8
+      - uses: docker://pandoc/core:2.9
         with:
-          version: latest
-
-      - name: Add .nojekyll File 📄
-        run: touch $GITHUB_WORKSPACE/www/.nojekyll
-        # Ensure asset paths are correctly identified
-
-      - name: Deploy to GitHub Pages 🚀
-        uses: JamesIves/github-pages-deploy-action@4
-        with:
-          branch: gh-pages # The branch to deploy to.
-          folder: www # The folder to deploy.
-          clean: true
+          args: "--help" # gets appended to pandoc command
