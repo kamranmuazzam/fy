@@ -1,0 +1,14 @@
+- ((662a9b2b-ebe2-4a33-b12e-5ae220cbef9d))
+- Presents with
+	- Cramping/ lower abdominal pain
+	- Heavy PV bleeding
+- O/E
+	- Tender uterus which corresponds to gestational age
+	- Dilated cervix
+	- POC often felt through the cervical OS
+- General measures
+	- IV fluids
+	- Blood transfusion if required
+- Definitive
+	- If Gestational Age is < 12 weeks do manual vaccum aspiration of the uterus (MVA)
+	- If Gestational Age is > 12 weeks await spontaneous expulsion of POC and can be augmented with oxytocin drip (10 units in 500 ml at 40-60 drops/min) or prostaglandins

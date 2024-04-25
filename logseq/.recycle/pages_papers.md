@@ -1,0 +1,2 @@
+- [[watson crick]]
+- [[AI]]

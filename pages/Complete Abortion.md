@@ -1,0 +1,9 @@
+- ((662aa2a0-92c6-4951-8bb2-659717c3e175))
+- Presents with
+	- Heavy PV bleeding followed by expulsion of POC then light bleeding
+- O/E
+	- Uterus smaller than gestation dates
+	- Closed cervix
+- Management
+	- Do a TVS to check that uterine cavity is empty, otherwise curettage should be done
+	- In Rh negative patient, give Anti-D within 72 hours
