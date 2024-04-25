@@ -1,14 +1,29 @@
-steps:
-  - uses: actions/checkout@v2
-  - name: Logseq Publish 🚩
-    uses: pengx17/logseq-publish@v0.1.8
-    with:
-      version: latest
-  - name: add a nojekyll file # to make sure asset paths are correctly identified
-    run: touch $GITHUB_WORKSPACE/www/.nojekyll
-  - name: Deploy 🚀
-    uses: JamesIves/github-pages-deploy-action@4
-    with:
-      branch: gh-pages # The branch the action should deploy to.
-      folder: www # The folder the action should deploy.
-      clean: true
+name: Logseq Publish and Deploy
+
+on:
+  push:
+    branches:
+      - main # or your main branch name
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository 🔄
+        uses: actions/checkout@v2
+
+      - name: Logseq Publish 🚩
+        uses: pengx17/logseq-publish@v0.1.8
+        with:
+          version: latest
+
+      - name: Add .nojekyll File 📄
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+        # Ensure asset paths are correctly identified
+
+      - name: Deploy to GitHub Pages 🚀
+        uses: JamesIves/github-pages-deploy-action@4
+        with:
+          branch: gh-pages # The branch to deploy to.
+          folder: www # The folder to deploy.
+          clean: true
