@@ -1,0 +1,2 @@
+- ![Hiralal Konar - DC Dutta's Textbook of Gynecology-Jaypee Brothers Medical Publishers (2020).pdf](../assets/Hiralal_Konar_-_DC_Dutta's_Textbook_of_Gynecology-Jaypee_Brothers_Medical_Publishers_(2020)_1714060725789_0.pdf)
+-

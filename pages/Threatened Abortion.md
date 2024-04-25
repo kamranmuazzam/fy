@@ -1,0 +1,14 @@
+- ((662a9a02-d32c-45da-a7a3-075328492a17))
+- ## Presents with
+	- Slight PV bleeding usually painless
+- ## O/E
+	- Soft uterus that corresponds to the gestational age
+	- Closed cervix
+- ## Investigations
+	- Routine (Haemogram, urine routine)
+	- Ultrasound
+- ## Treatment
+	- Rest
+	- Analgesics
+	- Avoid strenuous activities, sexual intercourse
+	- Clinically : natural progesterone (still debatable)

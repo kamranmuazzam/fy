@@ -1,0 +1,38 @@
+- ((662aa4be-7b2f-48b0-b680-dc429723c5b7))
+- Causes
+	- Unsafe abortion
+	- Prolonged retention of POC
+	- Incomplete or unsterile evacuation of the uterus
+- Clinical Features
+	- Symptoms
+		- Fever
+		- Abdominal pain
+		- Foul smelling PV discharge & PV bleeding
+	- Signs
+		- Tachycardia
+		- Abdominal tenderness with boggy feel of uterus
+		- Shock, confusion, hypothermia, oliguric
+- Grading
+	- Grade 1
+		- Infection is localised in uterus
+	- Grade 2
+		- Infection spreads beyond uterus to parametrium, tubes, ovaries or pelvic peritoneum
+	- Grade 3
+		- Generalised peritonitis, endotoxic shock, ARF, jaundice
+- Management
+	- Investigations
+		- Haemogram
+		- Blood grouping and cross match
+		- Urine analysis including cross match
+		- Urine analysis including culture
+		- Cervical or high vaginal swab(c/s)
+		- USG
+		- Blood culture
+		- Serum electrolytes
+		- Coagulation profile
+- Treatment
+	- Hospitalize
+	- IV fluids depending on the degree of shock
+	- IV broad spectrum antibiotics
+	- Anti gas gangrene serum
+	- Anti tetanus serum
