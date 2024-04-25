@@ -1,11 +1,17 @@
-name: Simple Usage
+on: [push]
 
-on: push
-
+permissions:
+  contents: write
 jobs:
-  convert_via_pandoc:
-    runs-on: ubuntu-22.04
+  test:
+    runs-on: ubuntu-latest
+    name: Publish Logseq graph
     steps:
-      - uses: docker://pandoc/core:2.9
+      - uses: actions/checkout@v3
+      - uses: logseq/publish-spa@v0.3.0
+      - name: Add a nojekyll file # to make sure asset paths are correctly identified
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          args: "--help" # gets appended to pandoc command
+          folder: www
