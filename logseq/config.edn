@@ -137,6 +137,7 @@
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
  ;; :pages-directory "pages"
+:page “Home”, :sidebar “Contents”
 
  ;; Set the default location for storing journals.
  ;; Default value: "journals"
