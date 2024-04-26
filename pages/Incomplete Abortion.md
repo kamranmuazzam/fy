@@ -6,6 +6,11 @@
 	- Uterus smaller than gestational age
 	- Dilated cervix
 	- Partial expulsion of POC
+	- USG : echogenic material within cavity
+- ## Complication
+	- Profuse bleeding
+	- Sepsis
+	- Placental polyp
 - ## General measures
 	- Act fast
 	- Put IV line & IV fluids

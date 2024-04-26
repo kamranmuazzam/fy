@@ -141,3 +141,30 @@ file-path:: ../assets/Hiralal_Konar_-_DC_Dutta's_Textbook_of_Obstetrics_Includin
   hl-page:: 177
   hl-color:: yellow
   id:: 662c17b7-5646-4b91-8107-d17f271bc3bc
+- In the majority (80%), the organisms are of endogenous origin and the infection is localized to the conceptus without any myometrial involvement.
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 662c21b4-9bc3-4580-8e7b-b558481f96ba
+- In about 15%, the infection either produces localized endomyometritis surrounded by a protective leukocytic barrier, or spreads to the parametrium, tubes, ovaries or pelvic peritoneum.
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 662c21d1-5f96-43eb-8610-a7e8e1bcfb57
+- In about 5%, there is generalized peritonitis and/or endotoxic shock
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 662c2225-0541-4cfd-9980-b1d5aef202a1
+- [:span]
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 662c2279-bf98-4892-b860-2b41e5c7143e
+  hl-type:: area
+  hl-stamp:: 1714168441589
+- DEFINITION: Recurrent miscarriage is defined as the sequence of two or more spontaneous abortions as documented by either sonography or on histopathol ogy, before 20 weeks (ASRM 2013).
+  ls-type:: annotation
+  hl-page:: 185
+  hl-color:: yellow
+  id:: 662c24d9-88d6-42fc-8c17-bbb44a2e0ec1

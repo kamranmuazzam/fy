@@ -54,8 +54,7 @@
 	- ### [[Complete Abortion]]
 	- ### [[Missed Abortion]]
 	- ### [[Septic Abortion]]
-- ## Complications
-  collapsed:: true
+- collapsed:: true
 	- ### Immediate
 		- Haemorrhage
 		- Injury to uterus and adjoining organs
@@ -75,3 +74,4 @@
 	- Counsel and provide contraception
 	- Follow up visits - assess recovery, feedback on FB
 	- TLC
+- [[Recurrent Miscarriage]]
