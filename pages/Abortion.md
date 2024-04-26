@@ -1,4 +1,4 @@
-- ((662a813a-12cd-41c3-853a-918ca70fd7a4))
+- ((662c17b7-5646-4b91-8107-d17f271bc3bc))
 - Previously it was considered at 28 weeks as that was the viable period but due to advancement of NICU it is now approximately ((662a8241-c955-4b50-9b9c-d81072ace9c4))
 - ## Types of abortion
 	- ((662a82cc-0ed8-4d0a-8459-45ffd94af106))
@@ -9,7 +9,6 @@
 	- Most Common cause of 1st Trimester Abortion is chromosomal abnormalities (defect in embryo)
 	-
 - ## Etiology
-  collapsed:: true
 	- ((662a83f6-74f2-4375-9fc1-0f74339490fc))
 	- ### 50% Genetic
 		- 50% of such genetic abnormalities are trisomy
@@ -25,73 +24,30 @@
 			- Both [[Hypothyroidism]] and [[Hyperthyroidism]]
 		- #### Diabetes mellitus
 			- Poorly controlled/uncontrolled
-	- ### 3-38% Anatomical Abnormalities
-		- Cervical Incompetence
-		  logseq.order-list-type:: number
-		- Congenital malformations of uterus
-		  logseq.order-list-type:: number
+	- ### Immunological
+		- Antiphospholipid Antibody Syndrome
+	- ### Maternal medical illness
+		- Cyanotic heart disease
+		- haemoglobinopathies
+	- ### Anatomical Abnormalities
+		- Cervical Incompitance
+		- Miillarian fusion defect
 			- Bicornuate uterus
-			- Septate uterus
-			- Unicornuate uterus
-			- #### Causes of Fetal Loss
-				- Reduced Intrauterine Volume
-				  logseq.order-list-type:: number
-				- Reduced Expansile Property of Uterus
-				  logseq.order-list-type:: number
-				- Reduced Placental Vascularity when implanted on the septum
-				  logseq.order-list-type:: number
-				- Increased uterine irritability and contractility
-				  logseq.order-list-type:: number
-		- Uterine fibroids
-		  logseq.order-list-type:: number
-			- It depends Size & Location of fibroid
-				- Most common cause is submucous type
-				- Bigger fibroid is more likely to cause abortion
-		- Intrauterine adhesions (Synechiae)
-		  logseq.order-list-type:: number
-			- [[Ashermen Syndrome]]
-			  logseq.order-list-type:: number
-	- ### Infections
-		- Viral : Rubella, CMV, Variola
-		- Parasitic : Toxoplasma, Malaria
-		- Bacterial : Ureaplasma, Chlamydia
-	- ### Autoimmunity
-		- Autimmune : ANA, ANTI-DNA, APLA - LAC, aCL
-			- Placental thrombosis, Infarction & Fetal Hypoxia
-			- Depending on the severity of fetal hypoxia we might have
-				- IUGR
-				- Abortion
-				- Pregnancy Induced hypertension
-				- Abrupto placentae
-		- Alloimmune : Paternal antigens
-		- Inherited Thrombophilias :  Protein C resistance (Commonest)
-	- ### Miscellaneous
-		- Maternal medical illness
-			- Cyanotic heart disease
-			- haemoglobinopathies
-		- Blood group incompatibility
-		- PROM
-		- Environmental: smoking, alcohol
-		- Sperm chromosomal Abnormalities
-		- Unexplained
+			- Septate Uterus
+		- Uterine syncae
+		- Uterine Fibroid
 	- #### Etiology According to Trimester
 		- 1st Trimester
 			- Genetic
 			- Endocrine
-			- Trauma
-			- Maternal medical diseases
-			- Inherited Thrombophilias
-			- Maternal use of alcohol & caffeine
-			- Unexplained
-		- 2nd Trimester : Anatomical Abnormalities &
-			- Anatomical
 			- Immunological
-			- Rh isoimmunisation
-			- Maternal infections
+			- Infection
+			- Unexplained
+		- 2nd Trimester
+			- Anatomical Abnormalities
 			- Maternal medical illness
 			- Unexplained
 - ## Management
-  collapsed:: true
 	- ### [[Threatened Abortion]]
 	- ### [[Inevitable Miscarriage]]
 	- ### [[Incomplete Abortion]]
@@ -99,6 +55,7 @@
 	- ### [[Missed Abortion]]
 	- ### [[Septic Abortion]]
 - ## Complications
+  collapsed:: true
 	- ### Immediate
 		- Haemorrhage
 		- Injury to uterus and adjoining organs
