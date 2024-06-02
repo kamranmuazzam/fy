@@ -3,6 +3,7 @@
   template:: Disease
   template-including-parent:: false
 	- alias::
+	  definition::
 	  ICD-11-Code::
 	  Etiology-Causative_Factors::
 	  Etiology-Risk_Factors::
