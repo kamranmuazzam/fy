@@ -1,0 +1,1 @@
+- ![@Ravel | Bacterial vaginosis and its association with infertility, endometritis, and pelvic inflammatory disease ~Am J Obstet Gynecol Mar 2021.pdf](../assets/@Ravel_|_Bacterial_vaginosis_and_its_association_with_infertility,_endometritis,_and_pelvic_inflammatory_disease_~Am_J_Obstet_Gynecol_Mar_2021_1715416902040_0.pdf)

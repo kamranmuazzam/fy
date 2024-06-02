@@ -1,0 +1,1 @@
+- ![@Fleischer | Transvaginal Scanning of the Endometrium ~J Clin Ultrasound May 1990.pdf](../assets/@Fleischer_|_Transvaginal_Scanning_of_the_Endometrium_~J_Clin_Ultrasound_May_1990_1715416866924_0.pdf)

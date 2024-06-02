@@ -1,0 +1,2 @@
+file:: [@Jarrell_|_The_Significance_and_Evolution_of_Menstruation_~Best_Practice_&_Research_Clinical_Obstetrics_&_Gynaecology_Jan_23_2018_1715307819298_0.pdf](../assets/@Jarrell_|_The_Significance_and_Evolution_of_Menstruation_~Best_Practice_&_Research_Clinical_Obstetrics_&_Gynaecology_Jan_23_2018_1715307819298_0.pdf)
+file-path:: ../assets/@Jarrell_|_The_Significance_and_Evolution_of_Menstruation_~Best_Practice_&_Research_Clinical_Obstetrics_&_Gynaecology_Jan_23_2018_1715307819298_0.pdf

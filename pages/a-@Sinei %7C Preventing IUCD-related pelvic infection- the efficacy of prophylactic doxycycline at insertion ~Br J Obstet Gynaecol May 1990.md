@@ -1,0 +1,1 @@
+- ![@Sinei | Preventing IUCD-related pelvic infection- the efficacy of prophylactic doxycycline at insertion ~Br J Obstet Gynaecol May 1990.pdf](../assets/@Sinei_|_Preventing_IUCD-related_pelvic_infection-_the_efficacy_of_prophylactic_doxycycline_at_insertion_~Br_J_Obstet_Gynaecol_May_1990_1715416848327_0.pdf)

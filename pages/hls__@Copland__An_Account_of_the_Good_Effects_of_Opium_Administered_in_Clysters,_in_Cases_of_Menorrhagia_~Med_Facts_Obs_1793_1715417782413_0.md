@@ -1,0 +1,2 @@
+file:: [@Copland_|_An_Account_of_the_Good_Effects_of_Opium_Administered_in_Clysters,_in_Cases_of_Menorrhagia_~Med_Facts_Obs_1793_1715417782413_0.pdf](../assets/@Copland_|_An_Account_of_the_Good_Effects_of_Opium_Administered_in_Clysters,_in_Cases_of_Menorrhagia_~Med_Facts_Obs_1793_1715417782413_0.pdf)
+file-path:: ../assets/@Copland_|_An_Account_of_the_Good_Effects_of_Opium_Administered_in_Clysters,_in_Cases_of_Menorrhagia_~Med_Facts_Obs_1793_1715417782413_0.pdf

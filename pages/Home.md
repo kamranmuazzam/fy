@@ -1,3 +1,0 @@
-- [[Medicine]]
-- [[Surgery]]
-- [[Gynaecology & Obsetrics]]

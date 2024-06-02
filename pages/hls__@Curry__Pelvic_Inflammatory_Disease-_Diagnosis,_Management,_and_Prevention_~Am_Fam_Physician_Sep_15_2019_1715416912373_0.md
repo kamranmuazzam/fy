@@ -1,0 +1,2 @@
+file:: [@Curry_|_Pelvic_Inflammatory_Disease-_Diagnosis,_Management,_and_Prevention_~Am_Fam_Physician_Sep_15_2019_1715416912373_0.pdf](../assets/@Curry_|_Pelvic_Inflammatory_Disease-_Diagnosis,_Management,_and_Prevention_~Am_Fam_Physician_Sep_15_2019_1715416912373_0.pdf)
+file-path:: ../assets/@Curry_|_Pelvic_Inflammatory_Disease-_Diagnosis,_Management,_and_Prevention_~Am_Fam_Physician_Sep_15_2019_1715416912373_0.pdf

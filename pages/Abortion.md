@@ -2,13 +2,22 @@
 - Previously it was considered at 28 weeks as that was the viable period but due to advancement of NICU it is now approximately ((662a8241-c955-4b50-9b9c-d81072ace9c4))
 - ## Types of abortion
 	- ((662a82cc-0ed8-4d0a-8459-45ffd94af106))
+	- ### [[Threatened Abortion]]
+	- ### [[Inevitable Miscarriage]]
+	- ### [[Incomplete Abortion]]
+	- ### [[Complete Abortion]]
+	- ### [[Missed Abortion]]
+	- ### [[Septic Abortion]]
+	- [[Recurrent Miscarriage]]
 - ## Incidence
+  collapsed:: true
 	- Incidence : 10-20% of all clinical Pregnancies
 		- 1st Trimester : 80%
 			- Due to Chromosomal Abnormalities :50-75%
 	- Most Common cause of 1st Trimester Abortion is chromosomal abnormalities (defect in embryo)
 	-
 - ## Etiology
+  collapsed:: true
 	- ((662a83f6-74f2-4375-9fc1-0f74339490fc))
 	- ### 50% Genetic
 		- 50% of such genetic abnormalities are trisomy
@@ -30,7 +39,7 @@
 		- Cyanotic heart disease
 		- haemoglobinopathies
 	- ### Anatomical Abnormalities
-		- Cervical Incompitance
+		- [[Cervical Incompitance]]
 		- Miillarian fusion defect
 			- Bicornuate uterus
 			- Septate Uterus
@@ -48,13 +57,7 @@
 			- Maternal medical illness
 			- Unexplained
 - ## Management
-	- ### [[Threatened Abortion]]
-	- ### [[Inevitable Miscarriage]]
-	- ### [[Incomplete Abortion]]
-	- ### [[Complete Abortion]]
-	- ### [[Missed Abortion]]
-	- ### [[Septic Abortion]]
-- collapsed:: true
+  collapsed:: true
 	- ### Immediate
 		- Haemorrhage
 		- Injury to uterus and adjoining organs
@@ -74,4 +77,3 @@
 	- Counsel and provide contraception
 	- Follow up visits - assess recovery, feedback on FB
 	- TLC
-- [[Recurrent Miscarriage]]

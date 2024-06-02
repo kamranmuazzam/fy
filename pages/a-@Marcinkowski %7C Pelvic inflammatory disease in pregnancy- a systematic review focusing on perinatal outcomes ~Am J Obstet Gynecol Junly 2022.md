@@ -1,0 +1,1 @@
+- ![@Marcinkowski | Pelvic inflammatory disease in pregnancy- a systematic review focusing on perinatal outcomes ~Am J Obstet Gynecol Junly 2022.pdf](../assets/@Marcinkowski_|_Pelvic_inflammatory_disease_in_pregnancy-_a_systematic_review_focusing_on_perinatal_outcomes_~Am_J_Obstet_Gynecol_Junly_2022_1715416893295_0.pdf)

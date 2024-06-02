@@ -1,0 +1,2 @@
+file:: [@Tabibzadeh_|_Decoding_implantation_and_menstruation-_the_tale_of_two_opposing_signals_~Front_Biosci_Jun_1_2002_1715309155953_0.pdf](../assets/@Tabibzadeh_|_Decoding_implantation_and_menstruation-_the_tale_of_two_opposing_signals_~Front_Biosci_Jun_1_2002_1715309155953_0.pdf)
+file-path:: ../assets/@Tabibzadeh_|_Decoding_implantation_and_menstruation-_the_tale_of_two_opposing_signals_~Front_Biosci_Jun_1_2002_1715309155953_0.pdf

@@ -1,0 +1,1 @@
+- ![@Copland | An Account of the Good Effects of Opium Administered in Clysters, in Cases of Menorrhagia ~Med Facts Obs 1793.pdf](../assets/@Copland_|_An_Account_of_the_Good_Effects_of_Opium_Administered_in_Clysters,_in_Cases_of_Menorrhagia_~Med_Facts_Obs_1793_1715417782413_0.pdf)

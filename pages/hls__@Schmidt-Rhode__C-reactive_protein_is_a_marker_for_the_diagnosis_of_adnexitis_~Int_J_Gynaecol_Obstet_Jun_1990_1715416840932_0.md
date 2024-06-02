@@ -1,0 +1,2 @@
+file:: [@Schmidt-Rhode_|_C-reactive_protein_is_a_marker_for_the_diagnosis_of_adnexitis_~Int_J_Gynaecol_Obstet_Jun_1990_1715416840932_0.pdf](../assets/@Schmidt-Rhode_|_C-reactive_protein_is_a_marker_for_the_diagnosis_of_adnexitis_~Int_J_Gynaecol_Obstet_Jun_1990_1715416840932_0.pdf)
+file-path:: ../assets/@Schmidt-Rhode_|_C-reactive_protein_is_a_marker_for_the_diagnosis_of_adnexitis_~Int_J_Gynaecol_Obstet_Jun_1990_1715416840932_0.pdf

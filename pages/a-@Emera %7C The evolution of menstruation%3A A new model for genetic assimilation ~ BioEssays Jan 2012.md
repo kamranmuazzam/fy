@@ -1,0 +1,1 @@
+- ![@Emera | The evolution of menstruation- A new model for genetic assimilation ~ BioEssays Jan 2012.pdf](../assets/@Emera_|_The_evolution_of_menstruation-_A_new_model_for_genetic_assimilation_~_BioEssays_Jan_2012_1715309050968_0.pdf)

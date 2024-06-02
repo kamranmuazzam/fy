@@ -1,0 +1,18 @@
+- [[Anatomy of External Ear]]
+- ### Importance of Important landmarks of Pinna
+  collapsed:: true
+	- tragus
+		- reconstructive surgery
+		- repair the tympanic membrane
+		- nasal septum
+		- elevation of alar region of nose
+		- csf rhinorrhoea
+	- crus of the helix
+		- pre-auricular sinus
+		- aendural route of middle ear surgery
+	- concha
+		- nasal reconstruction
+	- scaphoid fossa
+		- it is related to mackel's triangle which is used as landmark for mastoid surgery
+- ## Diseases of External Ear
+	- [[Perichondritis]]

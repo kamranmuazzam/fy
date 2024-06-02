@@ -1,0 +1,1 @@
+- In humans, menstraution exists because of spontaneous deciduadization.

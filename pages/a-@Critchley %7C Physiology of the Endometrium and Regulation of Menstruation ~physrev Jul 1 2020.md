@@ -1,0 +1,2 @@
+- ![@Critchley | Physiology of the Endometrium and Regulation of Menstruation ~physrev Jul 1 2020.pdf](../assets/@Critchley_|_Physiology_of_the_Endometrium_and_Regulation_of_Menstruation_~physrev_Jul_1_2020_1715305784873_0.pdf)
+-
