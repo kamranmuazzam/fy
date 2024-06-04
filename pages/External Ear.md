@@ -14,5 +14,3 @@
 		- nasal reconstruction
 	- scaphoid fossa
 		- it is related to mackel's triangle which is used as landmark for mastoid surgery
-- ## Diseases of External Ear
-	- [[Perichondritis]]
