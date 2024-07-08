@@ -1,5 +1,6 @@
-- alias::
-- ICD-11 Code:
+alias::
+ICD-11_Code::
+
 - ## Etiology
 	- ### Causative Agents
 	- ### Risk Factors
@@ -19,7 +20,7 @@
 		- [[Kidneys]]
 		- [[Blood cells]]
 		- [[Nervous System]]
-- ## Clical Features
+- ## Clinical Features
 	- ### Signs and Symptoms
 		- #### Symptoms
 			- [[Seizures]] and [[Fever]] } in **children**

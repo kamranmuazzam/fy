@@ -51,13 +51,27 @@ alias:: Enteric Fever
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
+		- Ciprofloxacin 500 mg twice daily for 7-14 days
+		- If XDR, in USA documented to exist even without travel history
+			- Azithromycin with or without carbapenem depending on severity
+		- Dexamethasone for severe illness (evidence pending)
+		- Paracetamol 500 mg, only if temperature is > 101 ºF
 	- ### Surgical Options
+		- if cholelithiasis present, cholecystectomy
 	- ### Lifestyle and Dietary Recommendations
+		- Complete bed rest
+		- Nutrition
+	- ### Follow-up
+		- 3 stool cultures in 1 month interval to ensure no carrier state
+		- or, 1 stool culture after 1 year to ensure no carrier state
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
 		- #### With Treatment
 			- short-term febrile illness requiring a median of 6 days of hospitalization.
+			- 10% Relapse within a week after therapy is discontinued
+			- Relapse after 70 days has been detected
+			- 0% and 5.9% of treated patients become chronic carriers.
 		- #### Without Treatment
 			- illness of several weeks' duration with long-term morbidity often involving the central nervous system
 			- **Onset and Initial Symptoms:**

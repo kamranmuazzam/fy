@@ -71,7 +71,7 @@
 		- Ectopic pregnancy
 		- Secondary infertility
 - Post abortal sepsis causing renal failure : Clostridium
-- After septic abortion, infective endocarditits most commonly affects : Tricuspid
+- After septic abortion, infective endocarditits most commonly affects : Tricuspid valve
 - ## Post abortal care
 	- 10-20% of pregnancies are aborted
 	- Counsel and provide contraception
